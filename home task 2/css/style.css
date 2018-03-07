@@ -1,0 +1,118 @@
+ /*logo*/
+ .logo{
+ 	width: 100px;
+ 	margin-top: 30px;
+ 	margin-left: 30px;
+ 	/*padding-left: 30px;
+ 	padding-top: 30px;
+ 	padding-bottom: 5px;*/
+ }
+ /*logo end */
+
+ /*li*/
+ li{
+ 	padding-top: 5px;
+ 	padding-bottom: 5px;
+ }
+ .red{
+ 	color: red;
+ }
+
+ /*li end*/
+
+ /* big poto background page1*/
+ /*.mtavari{
+ 	width: 1170px;
+ 	margin-left: 30px;
+ 	margin-right: 165px;
+ }*/
+ .main{
+ 	background-image: url(../image/mtavari.svg);
+ 	background-size: 100%;
+ 	height: 342px;
+ 	color: white;
+ 	padding-left: 30px;
+ 	padding-top: 30px;
+ 	margin-left: 30px;
+ }
+ /*big poto background page1 end*/
+
+ /*social parent*/
+.inline-block{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+.inline-block img{
+	width: 100%;
+	height: 100%;
+}
+.social-parent{
+	width: 40px;
+	/*background: red;*/
+	display: inline-block;
+	/*padding-bottom: 30px;*/
+	padding-top: 30px;
+	/*padding-left: 30px;*/
+	/*position: fixed;*/
+	bottom: 30px;
+	left: 30px;
+
+}
+/*social parent end*/
+
+/* date */
+.ricxvi{
+	width: 50px;
+	height: 50px;
+	margin-left: 30px;
+	background: blue;
+	color: white;
+	/*padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;*/
+	text-align: center;
+	line-height: 50px;
+}
+.maisi{
+	margin-left: 30px;
+	width: 50px;
+	color: blue;
+}
+/* date end */
+
+/*tittle and poto1 page 2 */
+
+.title1{
+	size: 10px;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.page1{
+	width: 270px;
+	margin-left: 30px;
+}
+/*tittle and poto1 page 2 */
+
+/*bigtext*/
+.bigtext{
+	margin-left: 30px; 
+}
+/*bigtext end*/
+
+/* contact */
+.contact{
+width: 250px;
+top: 320px;
+bottom: 345px;
+left: 520px;
+right: 595px;
+position: fixed;
+
+}
+.information{
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
